@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/HelenFess/repo-with-repl-nodejs/issues"
   },
-  "homepage": "https://github.com/HelenFess/repo-with-repl-nodejs#readme"
+  "homepage": "https://github.com/HelenFess/repo-with-repl-nodejs#readme",
+  "keywords": []
 }
